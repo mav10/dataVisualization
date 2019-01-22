@@ -1,8 +1,8 @@
 # Data visualisation with Django and Vue js ✌️ 🐍
 Task for course data visualization
 
-![Vue Logo](/task/src/assets/logo-vue.png "Vue Logo")
-![Django Logo](/task/src/assets/logo-django.png "Django Logo")
+![Vue Logo](/tasks/src/assets/logo-vue.png "Vue Logo")
+![Django Logo](/tasks/src/assets/logo-django.png "Django Logo")
 
 
 
@@ -34,13 +34,13 @@ data at `/api/`, and static files at `/static/`. Django admin panel is also avai
 
 | Location             |  Content                                   |
 |----------------------|--------------------------------------------|
-| `/task/backend`           | Django Project & Backend Config            |
-| `/task/backend/api`       | Django App (`/api`)                        |
-| `/task/src`               | Vue App .                                  |
-| `/task/src/main.js`       | JS Application Entry Point                 |
-| `/task/public/index.html` | Html Application Entry Point (`/`)         |
-| `/task/public/static`     | Static Assets                              |
-| `/task/dist/`             | Bundled Assets Output (generated at `yarn build` |
+| `/tasks/backend`           | Django Project & Backend Config            |
+| `/tasks/backend/api`       | Django App (`/api`)                        |
+| `/tasks/src`               | Vue App .                                  |
+| `/tasks/src/main.js`       | JS Application Entry Point                 |
+| `/tasks/public/index.html` | Html Application Entry Point (`/`)         |
+| `/tasks/public/static`     | Static Assets                              |
+| `/tasks/dist/`             | Bundled Assets Output (generated at `yarn build` |
 |`Untitled.ipynb`			| Task 4 with visualisation NetCdf			|
 ## Prerequisites
 
